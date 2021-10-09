@@ -1,4 +1,4 @@
-# The R codes and data for the simulation studies and the application in the manuscript "Estimating Derivatives from Sparse and Irregularly Longitudinal Dat".
+# The R codes and data for the simulation studies and the application in the manuscript "Estimating Derivatives from Sparse Functional Data".
 
 1. real_data.R contains the scripts for the real data application. 
 
